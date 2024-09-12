@@ -1,1 +1,3 @@
+function nextFunction() {}
 
+function prevFunction() {}
